@@ -1,7 +1,6 @@
 import React, { Component, Info } from 'react';
 import Personajes from './Personajes';
 import axios from 'axios';
-import Details from './Details';
 
 
 class Datos extends Component {
